@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SENEARIO</title>
+    <link rel="stylesheet" href="grid.css">
+</head>
+<body>
+    <div>
+        <section>Grid1</section>
+        <section>Grid2</section>
+        <section>Grid3</section>
+        <section>Grid4</section>
+        <section>Grid5</section>
+        <section>Grid6</section>
+        <section>Grid7</section>
+
+    </div>
+</body>
+</html>
